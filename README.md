@@ -48,7 +48,8 @@
   * [Common README.md template](https://github.com/hackergrrl/common-readme)
 * Итоги:
   * Появился этот README.md
-##Оценки
+
+## Оценки
 Задание | Оценка
 ------- | ------
 GIT 01 | 5
