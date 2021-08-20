@@ -49,24 +49,24 @@
 * Итоги:
   * Появился этот README.md
 
-Задание| Оценка
+Задание | Оценка
 - | -
 GIT 01 | 5
 GIT 02 | 5
 GIT 03 | 5
-GIT 04 | 
-GIT 05 | 
-GIT 06 | 
-GIT 07 | 
-GIT 08 | 
-GIT 09 | 
-GIT 10 | 
-GIT 11 | 
-GIT 12 | 
-GIT 13 | 
-GIT 14 | 
-GIT 15 | 
-GIT 16 | 
+GIT 04 | later
+GIT 05 | later
+GIT 06 | later
+GIT 07 | later
+GIT 08 | later
+GIT 09 | later
+GIT 10 | later
+GIT 11 | later
+GIT 12 | later
+GIT 13 | later
+GIT 14 | later
+GIT 15 | later
+GIT 16 | later
 
 Как сказал Канье Уэст:
 > В данном репозитории находится дефолтный конфигурационный файл nginx
