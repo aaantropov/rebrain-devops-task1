@@ -18,5 +18,36 @@
   - [ ] GIT 15: Создание pull requests в сторонний репозиторий
   - [ ] GIT 16: Git Flow - схема работы с Git
 
+## GIT 01: Базовая работа с git-репозиториями
+* Полезные ссылки:
+  * [Введение в системы контроля версий](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9)
+  * [Установка git-клиента](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git)
+  * [Первоначальная настройка git](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-Git)
+  * [Добавление файлов в репозиторий](https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9)
+  * [Просмотр истории изменений](https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2)
+  * [Как называть commit'ы](https://habr.com/ru/post/416887/)
+* Итоги:
+  * Создание локального репозитория с заданными параметрами
+## GIT 02: Работа с хостингами git-репозиториев
+* Полезные ссылки:
+  * [Git. Работа с удаленными репозиториями](https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%83%D0%B4%D0%B0%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8)
+  * [Git. О ветвлении в двух словах](https://git-scm.com/book/ru/v2/%D0%92%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Git-%D0%9E-%D0%B2%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B4%D0%B2%D1%83%D1%85-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%85)
+* Итоги:
+  * Содание репозиториев
+    * https://github.com/aaantropov/rebrain-devops-task1.git
+    * https://bitbucket.org/aaantropov/rebrain-devops-task1/src/master/
+    * https://gitlab.rebrainme.com/devops_users_repos/2742/rebrain-devops-task1.git
+## GIT 03: Создание тегов для коммитов
+* Полезные ссылки:
+  * [Работа с метками](https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%82%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8)
+* Итоги:
+  * Появился первый тег в репозитории https://gitlab.rebrainme.com/devops_users_repos/2742/rebrain-devops-task1.git
+## GIT 04: Описание репозитория в README.md
+* Полезные ссылки:
+  * [Гайд по Markdown](https://guides.github.com/features/mastering-markdown/)
+  * [Common README.md template](https://github.com/hackergrrl/common-readme)
+* Итоги:
+  * Появился этот README.md
+
 
 В данном репозитории находится дефолтный конфигурационный файл nginx
