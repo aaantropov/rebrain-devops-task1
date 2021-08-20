@@ -1,4 +1,5 @@
 ![Image from Rebrainme.com](https://github.com/aaantropov/images/blob/main/rebrain.png?raw=true)
+
 # ***Курс по ДЕВОПСу от [Rebrainme.com](https://rebrainme.com)***
 - # [[DevOps - 1] - Basic. Git](https://rebrainme.com/devops/)
   - [x] GIT 01: Базовая работа с git-репозиториями
@@ -28,6 +29,7 @@
   * [Как называть commit'ы](https://habr.com/ru/post/416887/)
 * Итоги:
   * Создание локального репозитория с заданными параметрами
+
 ## GIT 02: Работа с хостингами git-репозиториев
 * Полезные ссылки:
   * [Git. Работа с удаленными репозиториями](https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%83%D0%B4%D0%B0%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8)
@@ -37,11 +39,13 @@
     * https://github.com/aaantropov/rebrain-devops-task1.git
     * https://bitbucket.org/aaantropov/rebrain-devops-task1/src/master/
     * https://gitlab.rebrainme.com/devops_users_repos/2742/rebrain-devops-task1.git
+
 ## GIT 03: Создание тегов для коммитов
 * Полезные ссылки:
   * [Работа с метками](https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%82%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8)
 * Итоги:
   * Появился первый тег в репозитории https://gitlab.rebrainme.com/devops_users_repos/2742/rebrain-devops-task1.git
+
 ## GIT 04: Описание репозитория в README.md
 * Полезные ссылки:
   * [Гайд по Markdown](https://guides.github.com/features/mastering-markdown/)
