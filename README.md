@@ -103,7 +103,7 @@ echo 'This file will be ignored like all others in this directory' >> tmp/ignore
 echo 'This file will be added' >> addedfile
 git add .
 git commit
-git push -u originoriginrebrainme
+git push -u originrebrainme
 ```
 
 Как сказал Канье Уэст:
